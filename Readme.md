@@ -9,8 +9,9 @@
 <p>I'm a data analyst, developer and learner, passionate about exploring new technologies and building useful projects.</p>
 
 🔭 I’m currently working on my portfolio projects.
-🌱 I’m currently learning new data analysis techniques.
+
 💬 Ask me about anything, I'm happy to help!
+
 📫 How to reach me: (exp.Bayupermana@gmail.com or instagram.com/bayu_permanayogaa/)
 
 🌱 Currently Learning
