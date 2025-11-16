@@ -13,6 +13,14 @@
 💬 Ask me about anything, I'm happy to help!
 📫 How to reach me: (exp.Bayupermana@gmail.com or instagram.com/bayu_permanayogaa/)
 
+🌱 Currently Learning
+<p align="left">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-E59866?style=for-the-badge" alt="Machine Learning"></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-1A2541?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+</p>
+
 🚀 Technologies & Tools
 <p align="left">
   <!-- Add/Remove skills icons here -->
