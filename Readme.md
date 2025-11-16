@@ -11,7 +11,7 @@
 🔭 I’m currently working on my portfolio projects.
 🌱 I’m currently learning new data analysis techniques.
 💬 Ask me about anything, I'm happy to help!
-📫 How to reach me: (Add your email or social links here)
+📫 How to reach me: (exp.Bayupermana@gmail.com or instagram.com/bayu_permanayogaa/)
 
 🚀 Technologies & Tools
 <p align="left">
