@@ -14,12 +14,12 @@
 
 📫 How to reach me
 <p align="left">
-  <a href="mailto:Bayupermana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:Exp.Bayupermana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/bayu_permanayogaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/bayu_permanayoga" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/4beyu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-🌱 Currently Learning
+🌱 Learning
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-E59866?style=for-the-badge" alt="Machine Learning"></a>
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-1A2541?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></a>
