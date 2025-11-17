@@ -19,15 +19,12 @@
   <a href="https://x.com/4beyu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-<details>
-  <summary>🚀 Technologies & Tools</summary>
+🚀 Technologies & Tools
   
   <h4>Data Analysis &amp; Machine Learning</h4>
   <p align="left">
     <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
     <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-E59866?style=for-the-badge" alt="Machine Learning"></a>
-    <a href="https://comfyui.com/" target="_blank"><img src="https://img.shields.io/badge/ComfyUI-4E4E4E?style=for-the-badge&logoColor=white" alt="ComfyUI"></a>
   </p>
 
   <h4>Frontend</h4>
@@ -37,12 +34,13 @@
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
     <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
   </p>
 
   <h4>Backend</h4>
   <p align="left">
     <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
+    <a href="https://expressjs.com" target="_blank"><img src="https://img.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
     <a href="https://bun.sh/" target="_blank"><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"></a>
     <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
@@ -60,7 +58,11 @@
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
     <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-1A2541?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></a>
   </p>
-</details>
+
+  <h4>Image Generation</h4>
+  <p align="left">
+    <a href="https://comfyui.com/" target="_blank"><img src="https://img.shields.io/badge/ComfyUI-4E4E4E?style=for-the-badge&logoColor=white" alt="ComfyUI"></a>
+  </p>
 
 📊 My GitHub Stats
 <div align="center">
