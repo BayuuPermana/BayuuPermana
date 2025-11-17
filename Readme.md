@@ -12,7 +12,12 @@
 
 💬 Ask me about anything, I'm happy to help!
 
-📫 How to reach me: (exp.Bayupermana@gmail.com or instagram.com/bayu_permanayogaa/)
+📫 How to reach me
+<p align="left">
+  <a href="mailto:Bayupermana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/bayu_permanayogaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/bayu_permanayoga" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
 
 🌱 Currently Learning
 <p align="left">
