@@ -1,77 +1,73 @@
 <div align="center">
-  <!-- Waving Hand Greeting -->
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-right: 10px;">Hello, I'm Bayu Permana!</h1>
-  <!-- Bio -->
-  <p><em>🎯 Focusing on building and learning.</em></p>
+  
+  <!-- Header / Greeting -->
+  <h1>Hi there, I'm Bayu Permana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+  <!-- Typing SVG for Roles -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33E6FA&center=true&vCenter=true&width=435&lines=Data+Analyst;Full+Stack+Developer;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <p><em>🎯 Focusing on building, analyzing, and innovating.</em></p>
+
+  <!-- Social Links -->
+  <p>
+    <a href="mailto:Exp.Bayupermana@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://instagram.com/bayu_permanayogaa/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://x.com/4beyu" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    </a>
+    <a href="https://www.linkedin.com/in/bayu-permana-yoga" target="_blank"> <!-- Placeholder for LinkedIn if you have one -->
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
 
-👨‍💻 About Me
-<p>I'm a data analyst, developer and learner, passionate about exploring new technologies and building useful projects.</p>
+---
 
-🔭 I’m currently working on my portfolio projects.
+### 👨‍💻 About Me
 
-💬 Ask me about anything, I'm happy to help!
+I'm a passionate **Data Analyst** and **Developer** with a curiosity for exploring new technologies. My journey involves turning data into insights and building useful, scalable applications.
 
-📫 How to reach me
-<p align="left">
-  <a href="mailto:Exp.Bayupermana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/bayu_permanayogaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/4beyu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
+- 🔭 I’m currently working on **portfolio projects**.
+- 💬 Ask me about **Data Analysis, Web Development, or Machine Learning**.
+- ⚡ Fun fact: I love automating tedious tasks!
 
-🚀 Technologies & Tools
-  
-  <h4>Data Analysis &amp; Machine Learning</h4>
-  <p align="left">
-    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-    <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-  </p>
+---
 
-  <h4>Frontend</h4>
-  <p align="left">
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
-    <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
-    <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  </p>
+### 🚀 Technologies & Tools
 
-  <h4>Backend</h4>
-  <p align="left">
-    <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
-    <a href="https://bun.sh/" target="_blank"><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  </p>
-
-  <h4>Mobile</h4>
-  <p align="left">
-    <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
-    <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"></a>
-  </p>
-
-  <h4>DevOps &amp; Tools</h4>
-  <p align="left">
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-    <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-1A2541?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></a>
-  </p>
-
-  <h4>Image Generation</h4>
-  <p align="left">
-    <a href="https://comfyui.com/" target="_blank"><img src="https://img.shields.io/badge/ComfyUI-4E4E4E?style=for-the-badge&logoColor=white" alt="ComfyUI"></a>
-  </p>
-
-📊 My GitHub Stats
 <div align="center">
-  <!-- GitHub Stats Card -->
+
+| **Data & ML** | **Frontend** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,jupyter,scikitlearn&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,js,ts&theme=dark" /> |
+
+| **Backend** | **Mobile & Tools** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs,express,bun,php,mongo&theme=dark" /> | <img src="https://skillicons.dev/icons?i=flutter,react,git,docker&theme=dark" /> |
+
+<!-- Note: Using skillicons.dev for a cleaner look, but we can revert to shields.io if preferred -->
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BayuuPermana&show_icons=true&theme=dark&icon_color=79ff97&bg_color=0d1117&border_color=2f2f2f" alt="BayuuPermana's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BayuuPermana&show_icons=true&theme=tokyonight&icon_color=79ff97&bg_color=0d1117&border_color=2f2f2f&hide_border=true" alt="BayuuPermana's GitHub Stats" />
   </a>
-  <!-- Top Languages Card -->
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuuPermana&layout=compact&theme=dark&bg_color=0d1117&border_color=2f2f2f" alt="BayuuPermana's Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuuPermana&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=2f2f2f&hide_border=true" alt="BayuuPermana's Top Langs" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BayuuPermana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
