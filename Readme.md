@@ -45,7 +45,7 @@ I'm a passionate **Data Analyst** and **Developer** with a curiosity for explori
 
 | **Data & ML** | **Frontend** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,jupyter,scikitlearn&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,js,ts&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,js,ts&theme=dark" /> |
 
 | **Backend** | **Mobile & Tools** |
 |:---:|:---:|
