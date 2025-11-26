@@ -56,7 +56,7 @@ I'm a passionate **Data Analyst** and **Developer** with a curiosity for explori
 
 ---
 
-<!-- 
+ 
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -68,7 +68,7 @@ I'm a passionate **Data Analyst** and **Developer** with a curiosity for explori
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuuPermana&layout=compact&theme=dark&bg_color=0d1117&border_color=2f2f2f&hide_border=true" alt="BayuuPermana's Top Langs" />
   </a>
 </div>
--->
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BayuuPermana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
