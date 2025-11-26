@@ -5,7 +5,7 @@
 
   <!-- Typing SVG for Roles -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33E6FA&center=true&vCenter=true&width=435&lines=Data+Analyst;Full+Stack+Developer;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=33E6FA&center=true&vCenter=true&width=435&lines=Data+Analyst;Full+Stack+Developer;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p><em>🎯 Focusing on building, analyzing, and innovating.</em></p>
