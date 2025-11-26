@@ -60,11 +60,11 @@ I'm a passionate **Data Analyst** and **Developer** with a curiosity for explori
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BayuuPermana&show_icons=true&theme=tokyonight&icon_color=79ff97&bg_color=0d1117&border_color=2f2f2f&hide_border=true" alt="BayuuPermana's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BayuuPermana&show_icons=true&theme=dark&icon_color=79ff97&bg_color=0d1117&border_color=2f2f2f&hide_border=true" alt="BayuuPermana's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuuPermana&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=2f2f2f&hide_border=true" alt="BayuuPermana's Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayuuPermana&layout=compact&theme=dark&bg_color=0d1117&border_color=2f2f2f&hide_border=true" alt="BayuuPermana's Top Langs" />
   </a>
 </div>
 
