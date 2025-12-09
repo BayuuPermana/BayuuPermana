@@ -49,7 +49,7 @@ I'm a passionate **Data Analyst** and **Developer** with a curiosity for explori
 
 | **Backend** | **Mobile & Tools** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=nodejs,express,bun,php,mongo&theme=dark" /> | <img src="https://skillicons.dev/icons?i=flutter,react,git,docker&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,bun,php,mongo,strapi&theme=dark" /> | <img src="https://skillicons.dev/icons?i=flutter,react,git,docker&theme=dark" /> |
 
 <!-- Note: Using skillicons.dev for a cleaner look, but we can revert to shields.io if preferred -->
 </div>
